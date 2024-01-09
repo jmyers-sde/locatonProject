@@ -1,3 +1,5 @@
+This was my first group project in Eleven Fifty and we had decided to just leave the readme the way it was but I added this little bit to explain why it is the way it is.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
